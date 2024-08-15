@@ -36,7 +36,6 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
 
 ## Business related terms
 
